@@ -130,7 +130,7 @@ class ReportMaster {
 			"    font-weight: bold;" +
 			"    padding-top: 15px;" +
 			"    padding-bottom: 15px;" +
-			"    margin-bottom: 20px;" +
+			"    margin-top: 20px;" +
 			"    border-radius: 10px;" +
 			"    -webkit-border-radius: 10px;" +
 			"    -moz-border-radius: 10px;" +
@@ -205,7 +205,7 @@ class ReportMaster {
 			"    box-shadow: 1px 1px 6px rgba(0,0,0,.8);" +
 			"    background: white;" +
 			"    padding: 15px;" +
-			"    margin-bottom: 20px;" +
+			"    margin-top: 20px;" +
 			"}" +
 			".ta-small {" +
 			"    width: 530px;" +
