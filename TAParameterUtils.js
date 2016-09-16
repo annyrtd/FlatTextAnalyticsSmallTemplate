@@ -61,7 +61,7 @@ class TAParameterUtils{
      * @param {Parameter} parameter - parameter object
      */
     static function createDetailedChartTypeParameter(parameter: Parameter){
-        var chtTypes = ["Combo – Sorted by Positive", "Combo – Sorted by Negative","Stacked – Sorted by Positive","Stacked – Sorted by Negative","Positive Mentions","Negative Mentions","Problem Index"];
+        var chtTypes = ["Combo - Sorted by Positive", "Combo - Sorted by Negative","Stacked - Sorted by Positive","Stacked - Sorted by Negative","Positive Mentions","Negative Mentions","Problem Index"];
         var parameterVal: ParameterValueResponse;
         for(var i=0; i<chtTypes.length; i++){
             parameterVal=new ParameterValueResponse();
